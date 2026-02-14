@@ -1,3 +1,8 @@
 {
+<<<<<<< HEAD
   "C_Cpp.default.compilerPath": "C:/msys64/ucrt64/bin/gcc.exe"
+=======
+  "C_Cpp.default.compilerPath": "C:/msys64/ucrt64/bin/gcc.exe",
+  "cSpell.words": ["vetor"]
+>>>>>>> ba1cbc6fa399b81bbd89cd7d5aab07dbc563a361
 }
