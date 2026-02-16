@@ -1,6 +1,7 @@
 import 'dart:io';
 
 void main(List<String> args) {
+  // ignore: unused_local_variable
   int n = int.parse(stdin.readLineSync()!);
   var vetor = stdin.readLineSync()!.split(' ');
   String palavra = "";
